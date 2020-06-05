@@ -1,8 +1,4 @@
-server/assets
-server/node_modules
-web/node_modules
-mobile/node_modules
-mobile/.expo
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
