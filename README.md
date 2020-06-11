@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ecoleta" title="#delicinha" src="https://raw.githubusercontent.com/vcwild/ecoleta/84cbe382772348e52a9ad6dcfcf6cc1c73d12499/web/src/assets/logo.svg" width="250px" />
+  <img alt="Ecoleta" src="https://raw.githubusercontent.com/vcwild/ecoleta/84cbe382772348e52a9ad6dcfcf6cc1c73d12499/web/src/assets/logo.svg" width="250px" />
 </h1>
 
 <p align="center">
@@ -20,13 +20,13 @@ Elaborado na semana do meio ambiente e com foco ecológico, o projeto apresenta 
 ## :house: Web
 
 <h1 align="center">
-    <img alt="Ecoleta Front-end" title="#delicinha" src="https://github.com/maykon-oliveira/nlw-1/blob/master/.github/web.gif" />
+    <img alt="Ecoleta title=#web Front-end" src="https://github.com/maykon-oliveira/nlw-1/raw/master/.github/web.gif" />
 </h1>
 
 ## :iphone: Mobile
 
 <h1 align="center">
-    <img alt="Ecoleta Mobile" title="#delicinha" src="https://github.com/maykon-oliveira/nlw-1/raw/master/.github/mobile.gif" />
+    <img alt="Ecoleta Mobile" title=#mobile src="https://github.com/maykon-oliveira/nlw-1/raw/master/.github/mobile.gif" />
 </h1>
 
 ## :hammer: Tecnologias
@@ -74,7 +74,6 @@ $ expo start
 # Na pasta raiz do projeto
 $ sudo docker-compose up -d
 ```
-http://localhost:1337
 
 ## :scroll: Licença
 
