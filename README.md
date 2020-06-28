@@ -83,7 +83,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
   <img alt="Ecoleta" 
        src="https://raw.githubusercontent.com/vcwild/ecoleta/84cbe382772348e52a9ad6dcfcf6cc1c73d12499/web/src/assets/home-background.svg" width="250px" />
 </h1>
-
-<h6 align="right">
-Animações por <a href="https://www.github.com/maykon-oliveira/">Maykon Oliveira</a>
-</h6>
